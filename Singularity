@@ -3,7 +3,7 @@ From: registry.gitlab.com/rode0day/fuzzer-testing/parmesan_runner:20.04
 
 %labels
     MAINTAINER Josh Bundt
-    DockerTagID e20736d10
+    DockerTagID 59682ccc8
 
 %environment
     AFL_SKIP_CPUFREQ=1
